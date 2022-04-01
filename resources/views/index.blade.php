@@ -120,16 +120,16 @@
 		</div>
 		
 		
-		<!-- <div class="fh5co-hero">
+		<div class="fh5co-hero">
 			<div class="fh5co-overlay"></div>
 			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/cover_bg_1.jpg);">
 				<div class="desc animate-box">
-					<h2>Travel Around The World.</h2>					
-					<span><a class="btn btn-primary btn-lg" href="#">Get Started</a></span>
+					<h2>Futbol Clubs</h2>					
+					<span><a class="btn btn-primary btn-lg" href="#">Francisco Guzman</a></span>
 				</div>
 			</div>
 
-		</div> -->
+		</div>
 
 
 		<div class="fh5co-listing">
