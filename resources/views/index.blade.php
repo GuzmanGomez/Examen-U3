@@ -124,8 +124,7 @@
 			<div class="fh5co-overlay"></div>
 			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/cover_bg_1.jpg);">
 				<div class="desc animate-box">
-					<h2>Travel Around The World.</h2>
-					<!-- <span>Lovely Crafted by <a href="http://frehtml5.co/" target="_blank" class="fh5co-site-name">FREEHTML5.co</a></span> -->
+					<h2>Travel Around The World.</h2>					
 					<span><a class="btn btn-primary btn-lg" href="#">Get Started</a></span>
 				</div>
 			</div>
@@ -149,7 +148,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 fh5co-item-wrap">
 						<a class="fh5co-listing-item">
-							<img src="images/2.jpg" alt="Free HTML5 Bootstrap Template by FreeHTML5.co" class="img-responsive">
+							<img src="images/2.png" alt="Free HTML5 Bootstrap Template by FreeHTML5.co" class="img-responsive">
 							<div class="fh5co-listing-copy">
 								<h2>New York</h2>
 								<span class="icon">
@@ -195,7 +194,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 fh5co-item-wrap">
 						<a class="fh5co-listing-item">
-							<img src="images/6.jpg" alt="Free HTML5 Bootstrap Template by FreeHTML5.co" class="img-responsive">
+							<img src="images/6.png" alt="Free HTML5 Bootstrap Template by FreeHTML5.co" class="img-responsive">
 							<div class="fh5co-listing-copy">
 								<h2>Japan</h2>
 								<span class="icon">
@@ -242,8 +241,8 @@
 						</ul>
 					</div>
 					<div class="col-md-6 fh5co-testimonial">
-						<img src="images/7.jpg" alt="Free HTML5 Bootstrap Template by FreeHTML5.co" class="img-responsive mb20">
-						<img src="images/8.jpg" alt="Free HTML5 Bootstrap Template by FreeHTML5.co" class="img-responsive">
+						<img src="images/7.png" alt="Free HTML5 Bootstrap Template by FreeHTML5.co" class="img-responsive mb20">
+						<img src="images/8.png" alt="Free HTML5 Bootstrap Template by FreeHTML5.co" class="img-responsive">
 					</div>
 				</div>
 			</div>
